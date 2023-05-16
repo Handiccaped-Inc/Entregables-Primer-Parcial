@@ -10,7 +10,7 @@
 
 - Codigo del prototipo del lado del servidor: [Servidor](https://github.com/Handiccaped-Inc/Open-Market-Server)
 
-- Un video mostrando la compilación y ejecucion de la aplicación clienteservidor conectados directamente (sin balanceador de carga): [Video](https://youtube.com)
+- Video mostrando la compilación y ejecucion de la aplicación clienteservidor conectados directamente (sin balanceador de carga): [Video](https://youtube.com)
 - Documentacion de la arquitectura: [Documentación Arquitectura](./Documentacion%20Arquitectura/Diagramas%20documentacion.md)
 
 - Diagramas de clases y de secuencia: [Diagramas de clase y secuencia](./Diagramas%20de%20clase%20y%20de%20secuencia/Diagramas%20de%20clase%20y%20secuencia.md)
