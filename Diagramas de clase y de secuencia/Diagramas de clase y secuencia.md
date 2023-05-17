@@ -18,6 +18,6 @@
 ### Diagrama de Secuencia del Cliete
 
 <p align="center">
-    <img src="./Diagramas-svg/DiagramaSecuenciaCliente.svg"/>
+    <img src="./Diagramas-svg/DiagramasSecuenciaCliente.svg"/>
 </p>
 
