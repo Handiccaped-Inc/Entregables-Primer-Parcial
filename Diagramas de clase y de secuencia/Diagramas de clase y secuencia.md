@@ -6,6 +6,8 @@
 
 ## Diagramas de secuencia
 
+### Diagrama de Secuencia Del Servidor
+
 <p align="center">
     <img src="./Diagramas-svg/DiagramaSecuenciaEliminarServidor.svg"/>
 </p>
