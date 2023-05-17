@@ -11,3 +11,10 @@
 <p align="center">
     <img src="./Diagramas-svg/DiagramaSecuenciaEliminarServidor.svg"/>
 </p>
+
+### Diagrama de Secuencia del Cliete
+
+<p align="center">
+    <img src="./Diagramas-svg/DiagramaSecuenciaCliente.svg"/>
+</p>
+
