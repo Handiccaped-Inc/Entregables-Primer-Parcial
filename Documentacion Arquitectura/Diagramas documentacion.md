@@ -2,7 +2,7 @@
 
 ## Diagrama de modulos
 <p align="center">
-    <img src="./Diagramas-svg/ModeloCapasV1.svg"/>
+    <img src="./Diagramas-svg/DiagramaDeModulos.svg"/>
 </p>
 
 

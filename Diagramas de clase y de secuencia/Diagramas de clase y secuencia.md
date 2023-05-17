@@ -3,6 +3,9 @@
 
 ## Diagramas de clase
 
+<p align="center">
+    <img src="./Diagramas-svg/ModelosCapas.svg"/>
+</p>
 
 ## Diagramas de secuencia
 
