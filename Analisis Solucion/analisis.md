@@ -14,7 +14,7 @@ Es necesario que el sistema sea capaz de manejar un crecimiento en el número de
 El patron de arquitectura que se aplico fue el de cliente servidor, este permite una mayor escalabilidad y modularidad en comparación con otros enfoques arquitectónicos. y mientras el cliente y el servidor continúen comunicándose a través de interfaces bien definidas, pueden evolucionar de forma independiente,
 para manejar la concurrencia los servidores a menudo usan técnicas como el uso de hilos o procesos separados para manejar solicitudes simultáneas. Cada solicitud se puede asignar a un hilo o un proceso independiente para "procesar varias solicitudes al mismo tiempo".
 
-## Desempeño
+## Rendimiento
 
 ### Preocupacion
 Es necesario que el sistema sea capaz de distribuir la carga de las solicitudes en varias instancias de un servidor
