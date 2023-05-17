@@ -1,6 +1,10 @@
 # Diagramas
 
 ## Diagrama de modulos
+<p align="center">
+    <img src="./Diagramas-svg/ModeloCapasV1.svg"/>
+</p>
+
 
 ## Diagrama de componentes y conectores
 
