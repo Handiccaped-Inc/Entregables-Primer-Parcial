@@ -4,7 +4,7 @@
 ## Diagramas de clase
 
 <p align="center">
-    <img src="./Diagramas-svg/ModelosCapasV1.svg"/>
+    <img src="./Diagramas-svg/ModeloCapasV1.svg"/>
 </p>
 
 ## Diagramas de secuencia
